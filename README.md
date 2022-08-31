@@ -1,4 +1,4 @@
-# SDPFE - Demo of Practical Frequency Estimation in the Shuffle Model
+# SDPFE - Practical Frequency Estimation in the Shuffle Model
 
 Qiyao Luo, Yilei Wang, and Ke Yi. 2022. Frequency Estimation in the Shuffle
 Model with Almost a Single Message. In Proceedings of the 2022 ACM SIGSAC
