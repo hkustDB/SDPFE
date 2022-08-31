@@ -1,0 +1,26 @@
+epsilon = 1
+delta = 1e-10
+number of participants = 100000
+field size = 16777216
+utility parameter = 1
+modular size = 8685
+big prime = 16777259
+mu = 97.9614
+collision probability = 0.000115081
+
+expected number of message = 9.50795
+expected communication cost / user = 76.0636 bytes
+expected total communication cost = 7.60636e+06 bytes
+real total communication cost = 7.6077e+06 bytes
+
+L1 error = 1.40149e+08
+L2 error = 42867.2
+Linf error = 57.5371
+50% error = 7.47043
+90% error = 17.4716
+95% error = 20.5328
+99% error = 26.5335
+
+local randomizer time cost = 2.00096
+analyzer time cost = 80.4763
+single element query time cost = 0.0270841
