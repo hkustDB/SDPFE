@@ -34,4 +34,4 @@ g++ hhd.cpp -o hhd -std=c++11
 g++ fe.cpp -o fe -std=c++11
 ./hhd; ./fe
 ```
-We first use HHD protocol to detect the heavy coordinates, and output the candidate indices to 'VS/hhc/'. Next, we use FE protocol to calculate the aggregation of the candidate indices. Parameter setting is $n=10^7, B=2^{30}, \varepsilon=1, \delta = n^{-2}, \phi=7\times 10^{-4}$ and the input file is 'aol' (we also provided 'zipf1', 'zipf2', 'zipf3' - Zipfian distribution file with different $\alpha$).
+We first use HHD protocol to detect the heavy coordinates, and output the candidate indices to 'VS/hhc/'. Next, we use FE protocol to calculate the aggregation of the candidate indices. Parameter setting is $n=10^7, B=2^{30}, \varepsilon=1, \delta = n^{-2}, \phi=7\times 10^{-4}$ and the input file is 'aol' (we also provided 'zipf1', 'zipf2', 'zipf3' - Zipfian distribution file with different $\alpha$); and output directory is '../result'.
